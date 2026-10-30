@@ -8,3 +8,17 @@
 بانوان شیک پوش
 # فناوری ها اولیه پیشنهادی
 طراحی سایت
+# فروشگاه پوشاک لیمر (Limer Clothing Store)
+
+سایت فروشگاهی پوشاک لیمر پیاده‌سازی‌شده با وردپرس و ووکامرس.
+
+## جدول وضعیت مستندات پروژه
+
+| ردیف | نام سند | مسیر فایل | وضعیت |
+|:---:|---|---|:---:|
+| ۱ | برگهٔ درخواست مشتری | `specification/01-client-request.md` | ✅ |
+| ۲ | درخواست سیستم | `specification/02-system-request.md` | ✅ |
+| ۳ | تحلیل امکان‌سنجی | `specification/03-feasibility.md` | ✅ |
+| ۴ | منشور پروژه | `specification/04-project-charter.md` | ✅ |
+| ۵ | مدل‌سازی فرآیندهای کسب‌وکار (UML) | `specification/05-process-models.md` | ⏳ (به‌زودی) |
+| ۶ | مدل داده و پایگاه داده | `specification/06-data-model.md` | ⏳ (به‌زودی) |
